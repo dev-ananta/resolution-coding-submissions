@@ -9,12 +9,12 @@ I'm building my hardware skills slowly because of concerns for losing job opport
 Today I worked on the circuit for the first week of resolution coding.
 
 ![image](week1.png)
-![lapse](hardware-lapse1.mp4)
 
 I ran into some issues due to being thrown off by the prompt. 
 However, I resolved them by talking to ChatGPT & consulting the LLM on definitions; it attempted to give to much help but I only focused on the definitions.
 
 ### Time Spent: 0.2 Hours
+My lapse isn't working so.... (I got to fix this asap. But ≈0.2 hours.)
 
 ---
 
